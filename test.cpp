@@ -2,6 +2,6 @@
 using namespace std;
 int main(){
     int sum = 6;
-    cout<<"sk"<< sum;
+    cout<<"sks"<< sum;
     return 0;
 }
